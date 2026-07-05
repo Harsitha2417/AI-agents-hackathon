@@ -32,3 +32,10 @@ Google Drive Link:
 https://drive.google.com/file/d/17fh2BQPKXYQo45DQ2Pab5Wrb3NHnVWPf/view?usp=drive_link
 
 A copy of the demo video is also available in this repository.
+
+## Project Presentation
+
+The project presentation deck is included in this repository.
+
+Presentation Link:
+https://docs.google.com/presentation/d/1FUVEc4kPpS61FXLNE_ZcS0AQ9ERKldQS/edit?usp=drive_link&ouid=104499457062779816903&rtpof=true&sd=true
