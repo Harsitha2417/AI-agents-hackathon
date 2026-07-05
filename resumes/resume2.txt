@@ -1,0 +1,20 @@
+Name: Priya Reddy
+
+Role: Data Scientist
+
+Experience: 2 Years
+
+Skills:
+Python
+Machine Learning
+Pandas
+NumPy
+SQL
+Power BI
+
+Education:
+B.Tech Artificial Intelligence
+
+Projects:
+Customer Churn Prediction
+Sales Forecasting

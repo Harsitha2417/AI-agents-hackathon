@@ -1,0 +1,20 @@
+Name: Rahul Sharma
+
+Role: Software Engineer
+
+Experience: 3 Years
+
+Skills:
+Python
+Java
+SQL
+React
+AWS
+Git
+
+Education:
+B.Tech Computer Science
+
+Projects:
+Hospital Management System
+Online Banking System

@@ -1,0 +1,20 @@
+Name: Arjun Patel
+
+Role: AI Engineer
+
+Experience: 4 Years
+
+Skills:
+Python
+TensorFlow
+PyTorch
+LangChain
+LLMs
+Docker
+
+Education:
+M.Tech Artificial Intelligence
+
+Projects:
+AI Chatbot
+RAG Document Search
