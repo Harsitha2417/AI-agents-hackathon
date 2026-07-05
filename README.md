@@ -25,3 +25,10 @@ A STTP hackathon on building AI Agents
 pip install -r requirements.txt
 
 streamlit run app.py
+
+## Demo Video
+
+Google Drive Link:
+https://drive.google.com/file/d/17fh2BQPKXYQo45DQ2Pab5Wrb3NHnVWPf/view?usp=drive_link
+
+A copy of the demo video is also available in this repository.
